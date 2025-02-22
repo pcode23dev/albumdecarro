@@ -5,21 +5,9 @@ interface Carro {
 }
 
 let carros: Carro[] = [
-    {
-        nome: "Ferrari 488",
-        img: "img/car",
-        descricao: "Um carro esportivo de alta performance com motor V8."
-    },
-    {
-        nome: "Lamborghini Aventador",
-        img: "img/car",
-        descricao: "Um supercarro icônico com um motor V12."
-    },
-    {
-        nome: "Porsche 911",
-        img: "img/car",
-        descricao: "Um dos carros esportivos mais famosos, conhecido por seu desempenho e design."
-    },
+    {nome: "Ferrari 488",img: "img/car",descricao: "Um carro esportivo de alta performance com motor V8."},
+    {nome: "Lamborghini Aventador",img: "img/car",descricao: "Um supercarro icônico com um motor V12."},
+    {nome: "Porsche 911",img: "img/car",descricao: "Um dos carros esportivos mais famosos, conhecido por seu desempenho e design."},
     {
         nome: "BMW M3",
         img: "img/car",
